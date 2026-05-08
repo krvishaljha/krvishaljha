@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Vishal Jha 👋
 
-<!--
-**krvishaljha/krvishaljha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Architect operating at the Enterprise Architecture scope** within
+The Marketing Cluster at ALDI DX. 13+ years across the full
+transformation lifecycle — combining 5+ years inside Adobe with
+4+ years architecting an Adobe-anchored marketing technology
+landscape from the customer side.
 
-Here are some ideas to get you started:
+### What I work on
+- 🏛️ **Lifecycle Enterprise Architecture** — target architectures,
+  transition planning, governance, adoption
+- 🎨 **Adobe Experience Cloud** — AEM, Campaign, content supply
+  chains, GenStudio-adjacent Gen AI initiatives
+- 🔧 **EA tooling** — LeanIX (repository curation, meta-model),
+  Signavio, Confluence
+- ☁️ **Cloud & AI** — Microsoft Azure, Azure AI, agentic patterns
+  for marketing platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Credentials
+- TOGAF 9 Certified (The Open Group, #172251)
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Azure AI Solution Design & Implementation (AI-102)
+
+### Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/krvishaljha/)
+- 📧 krvishaljha@gmail.com
+- 🌍 Essen, Germany
+
+---
+
+*This profile is curated as a professional landing page. Most of my
+architecture work is internal to my employer and not public.*
